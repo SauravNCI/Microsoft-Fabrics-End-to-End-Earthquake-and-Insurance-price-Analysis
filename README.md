@@ -1,6 +1,6 @@
 # 🌍 Earthquake Insurance & Disaster Aid Analysis — Microsoft Fabric Pipeline
 
-**H9DISS1 — Data Intensive Scalable Systems | NCI MSc Data Analytics 2025/26**
+
 
 An end-to-end **big data pipeline built entirely on Microsoft Fabric**, analysing the relationship between US seismic risk and federal disaster-aid activation patterns. The pipeline ingests real FEMA and USGS data, processes it at scale with distributed Spark, and surfaces the results through a Fabric Data Warehouse and Power BI dashboard.
 
@@ -177,6 +177,3 @@ README.md
 
 ---
 
-## 👥 Authors
-
-NCI MSc Data Analytics 2025/26 — H9DISS1 Data Intensive Scalable Systems coursework.
